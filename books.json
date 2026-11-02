@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "category": "Programming",
+        "copies": 3
+    },
+    {
+        "id": 2,
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "category": "Programming",
+        "copies": 2
+    },
+    {
+        "id": 3,
+        "title": "Data Structures",
+        "author": "Mark Weiss",
+        "category": "CS",
+        "copies": 4
+    }
+]
