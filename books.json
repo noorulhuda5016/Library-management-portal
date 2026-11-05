@@ -19,5 +19,19 @@
         "author": "Mark Weiss",
         "category": "CS",
         "copies": 4
+    },
+    {
+        "id": 4,
+        "title": "books",
+        "author": "germna",
+        "category": "fictional",
+        "copies": 5
+    },
+    {
+        "id": 5,
+        "title": "a",
+        "author": "b",
+        "category": "c",
+        "copies": 1
     }
 ]
