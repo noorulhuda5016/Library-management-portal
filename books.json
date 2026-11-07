@@ -19,40 +19,5 @@
         "author": "Mark Weiss",
         "category": "CS",
         "copies": 4
-    },
-    {
-        "id": 4,
-        "title": "books",
-        "author": "germna",
-        "category": "fictional",
-        "copies": 5
-    },
-    {
-        "id": 5,
-        "title": "a",
-        "author": "b",
-        "category": "c",
-        "copies": 1
-    },
-    {
-        "id": 6,
-        "title": "a",
-        "author": "b",
-        "category": "c",
-        "copies": 1
-    },
-    {
-        "id": 7,
-        "title": "title",
-        "author": "author",
-        "category": "category",
-        "copies": 2
-    },
-    {
-        "id": 8,
-        "title": "title",
-        "author": "author",
-        "category": "category",
-        "copies": 1
     }
 ]
